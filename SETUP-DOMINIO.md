@@ -89,5 +89,5 @@ navegador a bajar la versión nueva.
 
 ## Pendientes
 
-- [ ] OAuth: agregar `https://creamixds.com` en Pitazo Final (`1052940348586-...`) y en la landing CreamixDS (`411887691042-...`).
-- [ ] Gebro: el `og:url` / `og:image` del `index.html` todavía apuntan a `creamix-ds.github.io/Gebro/` (detalle de SEO, no afecta funcionamiento).
+- [✅] OAuth: agregar `https://creamixds.com` en Pitazo Final (`1052940348586-...`) y en la landing CreamixDS (`411887691042-...`).
+- [✅] Gebro: el `og:url` / `og:image` del `index.html` todavía apuntan a `creamix-ds.github.io/Gebro/` (detalle de SEO, no afecta funcionamiento).
